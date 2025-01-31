@@ -1,0 +1,29 @@
+nav {
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-bottom: 10px;
+  padding-top: 5px;
+  background-color: black;
+  }
+body{
+  margin-top: 10%;
+}
+li{
+  display: inline;
+  margin-right: 3%;
+}
+ul{
+  list-style: none;
+}
+.home{
+  color:lightslategray;
+}
+.home:hover{
+  color: darkgrey;
+}
+.i{
+  color: white;
+}

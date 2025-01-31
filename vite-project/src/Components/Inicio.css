@@ -1,0 +1,15 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.descripcion{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.inicio{
+    margin-bottom:10% ;
+    margin-top: 15%;
+}
